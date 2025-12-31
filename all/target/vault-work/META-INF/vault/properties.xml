@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>bhasaka-aem-forms - All</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="created">2025-12-31T11:08:33.795Z</entry>
+<entry key="groupId">com.bhasaka</entry>
+<entry key="name">bhasaka-aem-forms.all</entry>
+<entry key="description">All content package for bhasaka-aem-forms</entry>
+<entry key="artifactId">bhasaka-aem-forms.all</entry>
+<entry key="version">1.0.0-SNAPSHOT</entry>
+<entry key="packageType">container</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.bhasaka</entry>
+</properties>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>bhasaka-aem-forms - UI content</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="acHandling">merge</entry>
+<entry key="dependencies-locations">com.bhasaka:bhasaka-aem-forms.ui.apps:1.0.0-SNAPSHOT=maven:com.bhasaka:bhasaka-aem-forms.ui.apps:1.0.0-SNAPSHOT:zip</entry>
+<entry key="created">2025-12-31T11:08:33.295Z</entry>
+<entry key="groupId">com.bhasaka</entry>
+<entry key="description">UI content package for bhasaka-aem-forms</entry>
+<entry key="version">1.0.0-SNAPSHOT</entry>
+<entry key="packageType">content</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="dependencies">com.bhasaka:bhasaka-aem-forms.ui.apps:1.0.0-SNAPSHOT</entry>
+<entry key="cloudManagerTarget">none</entry>
+<entry key="name">bhasaka-aem-forms.ui.content</entry>
+<entry key="artifactId">bhasaka-aem-forms.ui.content</entry>
+<entry key="group">com.bhasaka</entry>
+</properties>

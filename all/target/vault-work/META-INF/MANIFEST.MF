@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 11
+Implementation-Title: bhasaka-aem-forms - All
+Implementation-Version: 1.0.0-SNAPSHOT
+Content-Package-Type: container
+Content-Package-Id: com.bhasaka:bhasaka-aem-forms.all:1.0.0-SNAPSHOT
+Content-Package-Description: All content package for bhasaka-aem-forms
+Content-Package-Roots: /apps/bhasaka-aem-forms-packages,/apps/bhasaka-ae
+ m-forms-vendor-packages
+

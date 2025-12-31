@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/bhasaka-aem-forms" mode="merge"/>
+    <filter root="/content/bhasaka-aem-forms" mode="merge"/>
+    <filter root="/content/dam/bhasaka-aem-forms" mode="merge">
+        <exclude pattern="/content/dam/bhasaka-aem-forms(/.*)?"/>
+        <include pattern="/content/dam/bhasaka-aem-forms/jcr:content(/.*)?"/>
+    </filter>
+    <filter root="/content/dam/bhasaka-aem-forms/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/bhasaka-aem-forms" mode="merge"/>
+</workspaceFilter>

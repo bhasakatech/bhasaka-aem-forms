@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/bhasaka-aem-forms/clientlibs"/>
+    <filter root="/apps/bhasaka-aem-forms/components"/>
+    <filter root="/apps/bhasaka-aem-forms/i18n"/>
+</workspaceFilter>

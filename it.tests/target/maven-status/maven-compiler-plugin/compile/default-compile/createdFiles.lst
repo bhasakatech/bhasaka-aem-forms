@@ -1,0 +1,4 @@
+com/bhasaka/it/tests/PublishPageValidationIT.class
+com/bhasaka/it/tests/GetPageIT.class
+com/bhasaka/it/tests/CreatePageIT.class
+com/bhasaka/it/tests/HtmlUnitClient.class

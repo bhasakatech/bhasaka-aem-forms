@@ -1,0 +1,36 @@
+{
+  "id":"com.bhasaka:bhasaka-aem-forms.all:slingosgifeature:author:1.0.0-SNAPSHOT",
+  "configurations":  {
+    "com.day.cq.wcm.mobile.core.impl.MobileEmulatorProvider~bhasaka-aem-forms":    {
+      "mobile.resourceTypes":[
+        "bhasaka-aem-forms/components/page"
+      ],
+      "README":"Indicate which page resource types should display the mobile emulators.",
+      ":configurator:content-package-origins":"com.bhasaka:bhasaka-aem-forms.all:1.0.0-SNAPSHOT|com.bhasaka:bhasaka-aem-forms.ui.config:1.0.0-SNAPSHOT"
+    },
+    "com.adobe.granite.cors.impl.CORSPolicyImpl~bhasaka-aem-forms":    {
+      "alloworigin":[
+        "http://localhost:3000"
+      ],
+      "allowedpaths":[
+        "/(content|conf)/bhasaka-aem-forms.*"
+      ],
+      "supportedheaders":[
+        "Authorization",
+        "Origin",
+        "Accept",
+        "X-Requested-With",
+        "Content-Type",
+        "Access-Control-Request-Method",
+        "Access-Control-Request-Headers"
+      ],
+      "supportedmethods":[
+        "GET",
+        "HEAD"
+      ],
+      "alloworiginregexp":[
+      ],
+      ":configurator:content-package-origins":"com.bhasaka:bhasaka-aem-forms.all:1.0.0-SNAPSHOT|com.bhasaka:bhasaka-aem-forms.ui.config:1.0.0-SNAPSHOT"
+    }
+  }
+}

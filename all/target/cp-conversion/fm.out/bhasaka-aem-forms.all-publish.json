@@ -1,0 +1,12 @@
+{
+  "id":"com.bhasaka:bhasaka-aem-forms.all:slingosgifeature:publish:1.0.0-SNAPSHOT",
+  "configurations":  {
+    "org.apache.sling.jcr.resource.internal.JcrResourceResolverFactoryImpl":    {
+      "resource.resolver.mapping":[
+        "/content/bhasaka-aem-forms/</",
+        "/:/"
+      ],
+      ":configurator:content-package-origins":"com.bhasaka:bhasaka-aem-forms.all:1.0.0-SNAPSHOT|com.bhasaka:bhasaka-aem-forms.ui.config:1.0.0-SNAPSHOT"
+    }
+  }
+}

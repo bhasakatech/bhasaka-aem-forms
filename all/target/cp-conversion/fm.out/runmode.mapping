@@ -1,0 +1,5 @@
+#File edited by the Apache Sling Content Package to Sling Feature converter
+#Wed Dec 31 16:38:34 IST 2025
+author=bhasaka-aem-forms.all-author.json
+publish=bhasaka-aem-forms.all-publish.json
+(default)=bhasaka-aem-forms.all.json

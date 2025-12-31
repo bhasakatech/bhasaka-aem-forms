@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 11
+Implementation-Title: bhasaka-aem-forms - UI apps
+Implementation-Version: 1.0.0-SNAPSHOT
+Content-Package-Type: application
+Content-Package-Id: com.bhasaka:bhasaka-aem-forms.ui.apps:1.0.0-SNAPSHOT
+Content-Package-Description: UI apps package for bhasaka-aem-forms
+Content-Package-Roots: /apps/bhasaka-aem-forms/clientlibs,/apps/bhasaka-
+ aem-forms/components,/apps/bhasaka-aem-forms/i18n
+Import-Package: com.adobe.cq.wcm.core.components.models;version="[12.29.
+ 0,13.0.0)",com.bhasaka.core.models;version="[1.0.0,2.0.0)",org.apache.s
+ ling.scripting.sightly;version="[2.0.0,3.0.0)"
+
